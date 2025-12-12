@@ -1,0 +1,15 @@
+Item,Component,Specifications,Supplier,Reference,Quantity,Unit Price (RON),Line Total (RON)
+1,Ceramic Capacitor,220pF 50V THT,ArduShop,NPHGVV_C_CER_50_221,1,0.24,0.24
+2,Schottky Diode,1N5819 SS14 40V SMD,ArduShop,GLNNZP_DIODE_SCHOTTKY,1,0.54,0.54
+3,Li-ion Charger Module,TP4056 1A Micro-USB No Protection,ArduShop,LLYOIK_LiC-Micro-NO,1,4.25,4.25
+4,Li-Po Battery,3.7V 2000mAh 50mm,eMAG,AKY0640,1,67.81,67.81
+5,TFT LCD Display,2.4in 240x320 ILI9341 Touch SD,ArduShop,BPNLBU,1,52.03,52.03
+6,Prototype PCB,Perfboard 5x7cm,ArduShop,ZKBTBM_protoPCB5x7,1,1.97,1.97
+7,Digital Voltmeter,DC 2.7–100V,ArduShop,RFQRGG_VM-100-green,1,7.26,7.26
+8,Speaker,1W 8ohm 50mm,ArduShop,KJYQBZ_SP-1W-8ohm,1,4.36,4.36
+9,Silicone Wire,28AWG 2-core 1m,Local Supplier,AWG1x2-28AWG,1,4.97,4.97
+10,Wire Set,30AWG Copper 280m,Sigmanortec,9619,1,53.48,53.48
+11,Boost Converter Module,MT3608 Step-Up 2A Max 28V 36x17x14mm,eMAG,MT3608,1,15.82,15.82
+12,USB-C PD Module,USB-C Power Delivery Trigger 9V,ArduShop,QFURZV_USBC_DECOY_9,1,12.74,12.74
+13,Single Board Computer,Raspberry Pi Zero W V2,ArduShop,PEEOPR_RPI_ZW_V2,1,132.17,132.17
+14,Push Button,Tactile Push Button THT,ArduShop,FGDJQJ_TSD001A04126A,1,1.03,1.03
