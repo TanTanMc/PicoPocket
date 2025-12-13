@@ -4,11 +4,10 @@ Single Board Computer,Raspberry Pi Zero 2W with pre-soldered GPIO header,1,123.7
 Battery,3.7V 2000mAh LiPo battery (804050),1,25.80,5.65,https://www.aliexpress.com/item/1005010044750267.html,Primary portable power source
 Display,2.4 inch SPI TFT LCD with touch (ILI9341),1,25.64,5.61,https://www.aliexpress.com/item/1005006470481683.html,Main user interface display (SPI)
 Battery Charger,TP4056 USB-C Li-ion charger with protection,2,1.40,0.31,https://www.aliexpress.com/item/1005010470023583.html,Two units purchased for redundancy and safety
-Speaker,8 ohm 1W mini speaker with wires,1,2.80,0.61,https://www.aliexpress.com/item/1005007315336158.html,Audio output (may require simple amplifier)
+Speaker,8 ohm 1W mini speaker with wires,1,2.80,0.61,https://www.aliexpress.com/item/1005007315336158.html,Audio output (external amplifier may be added later)
 Jumper Wires,Flexible jumper wire set for breadboard,1,7.90,1.73,https://www.aliexpress.com/item/1005006143664755.html,Signal and power connections
-Silicone Wire,28 AWG silicone insulated wire (3m),1,7.62,1.67,https://www.aliexpress.com/item/1005009017260144.html,Internal power and speaker wiring
-Fasteners,M2 screw assortment kit,1,26.23,5.74,https://www.aliexpress.com/item/1005007159750547.html,Mechanical assembly and enclosure mounting
+Silicone Wire,28 AWG silicone insulated wire (3m),1,7.62,1.67,https://www.aliexpress.com/item/1005009017260144.html,Internal wiring
+Fasteners,M2 screw assortment kit,1,26.23,5.74,https://www.aliexpress.com/item/1005007159750547.html,Enclosure and mechanical mounting
 Storage,MicroSD card 32GB Class 10 (A1),1,24.16,5.28,https://www.aliexpress.com/item/1005007720497682.html,Operating system and storage
-Power Switch,Mini SPST slide switch (2-pin),1,3.50,0.77,https://www.aliexpress.com/item/1005004500151081.html,Main power on/off switch
-TOTAL,,,267.37,58.77,,
-NOTE,This BOM was created manually using GitHub Code.,,,,"All components were individually selected and justified; no auto-generated CAD/EDA BOM was used."
+TOTAL,,,,,,≈ 267.37 RON / 58.77 USD
+NOTE,This BOM was manually created using GitHub Code.,,,,"All parts selected individually; no CAD/EDA auto-generated BOM used."
