@@ -1,5 +1,3 @@
-I din't understand when you said "please include a BOM.csv" and i shouldt use the auto generated one, If you were wondering what I used to make this BOM i used GitHub Code, and i just renamed the BOM to BOM.cvs , lol
-
 Item,Description,Unit Price (RON),AliExpress Link,Notes
 Breadboard,MB-102 breadboard with power module and jumper wires,19.61,https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007539869714,Used for prototyping/ I din't use a PCB
 Single Board Computer,Raspberry Pi Zero 2W with pre-soldered GPIO header,123.71,https://www.aliexpress.com/item/1005008530776931.html,Main computer running Linux
@@ -16,3 +14,6 @@ USB Card Reader,USB 3.0 SD and microSD card reader,26.47,https://www.aliexpress.
 Storage,MicroSD card 32GB Class 10 (A1),24.16,https://www.aliexpress.com/item/1005007720497682.html,Operating system and storage
 Power Switch,SPST rocker power switch (2-pin),13.62,https://www.aliexpress.com/item/1005008683106599.html,Main power on/off switch
 TOTAL,,323.93,,
+
+Note,This Bill of Materials (BOM) was created manually using a text editor (GitHub Code). All components were selected individually and are not auto-generated from any CAD or EDA tool.,,,
+Note,The file name was manually set to BOM.csv as required by the project instructions.,,,
