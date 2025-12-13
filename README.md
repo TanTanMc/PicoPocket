@@ -64,7 +64,8 @@ I built this project to explore how everyday items like wallets could be redesig
 
 ## Wiring Diagram
 
-<img width="1220" height="512" alt="image" src="https://github.com/user-attachments/assets/a6f4c5a1-f8c2-41ac-8b9c-22d38895846e" />
+<img width="1324" height="668" alt="image" src="https://github.com/user-attachments/assets/53790162-aa62-4ab9-ad65-e36383a786fd" />
+
 
 ---
 
