@@ -1,3 +1,5 @@
+I din't understand when you said "please include a BOM.csv" and i shouldt use the auto generated one, If you were wondering what I used to make this BOM i used GitHub Code, and i just renamed the BOM to BOM.cvs , lol
+
 Item,Description,Unit Price (RON),AliExpress Link,Notes
 Breadboard,MB-102 breadboard with power module and jumper wires,19.61,https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007539869714,Used for prototyping/ I din't use a PCB
 Single Board Computer,Raspberry Pi Zero 2W with pre-soldered GPIO header,123.71,https://www.aliexpress.com/item/1005008530776931.html,Main computer running Linux
