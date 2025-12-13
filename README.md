@@ -36,6 +36,9 @@ The diagram (simplified) (I added only the crucial parts) for the pickpocket
 Total estimated cost: 323.93 RON (Around 76$) BUT im not sure that If i need to pay for transport. Could yall give me 80$ in total instead? Please.
 
 
+This is the Diagram/Wiring for the project:
+<img width="1220" height="512" alt="image" src="https://github.com/user-attachments/assets/a6f4c5a1-f8c2-41ac-8b9c-22d38895846e" />
+
 
 
 These are the angles of the 3D model.
