@@ -19,7 +19,7 @@ The diagram (simplified) (I added only the crucial parts) for the pickpocket
 
 | Item | Description | Qty | Unit Price (RON) | Unit Price (USD) | Notes |
 |-----|------------|-----|------------------|------------------|------|
-| Breadboard | MB-102 breadboard with jumper wires | 1 | 19.61 | 4.30 | Prototyping only (no PCB used) |
+| Breadboard | MB-102 breadboard with jumper wires + Breadboard Blue| 1 | 19.61 + 7.50 | 4.30 + 1.73 | Prototyping only (no PCB used) |
 | Single Board Computer | Raspberry Pi Zero 2W (pre-soldered GPIO) | 1 | 123.71 | 27.10 | Main system computer |
 | Battery | 3.7V 2000mAh Li-Po battery (804050) | 1 | 25.80 | 5.65 | Portable power source |
 | Display | 2.4″ SPI TFT LCD with touch (ILI9341) | 1 | 25.64 | 5.61 | User interface display |
@@ -30,7 +30,7 @@ The diagram (simplified) (I added only the crucial parts) for the pickpocket
 | Fasteners | M2 screw assortment kit | 1 | 26.23 | 5.74 | Enclosure mounting |
 | Storage | microSD card 32GB (Class 10, A1) | 1 | 24.16 | 5.28 | OS and storage |
 
-**Estimated total cost:** **≈ 267.37 RON / 58.77 USD** but could yall give me 60-70$ because i need to pay for transport for some parts.. please
+**Estimated total cost:** **≈ 274.87 RON / 60.5 USD** but could yall give me 65-70$ because i need to pay for transport for some parts.. please
 
 ### Notes
 - All components were sourced from **AliExpress** to reduce cost.
