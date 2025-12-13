@@ -36,7 +36,7 @@ I built this project to explore how everyday items like wallets could be redesig
 | Display | 2.4″ SPI TFT LCD + Touch (ILI9341) | 1 | 25.64 | 5.61 | Main user interface |
 | Battery Charger | TP4056 USB-C Li-ion charger (with protection) | 2 | 1.40 ×2 | 0.31 ×2 | Redundancy & safety |
 | Speaker | 8Ω 1W mini speaker | 1 | 2.80 | 0.61 | Audio output |
-| Jumper Wires | Separate jumper wire set | 1 | 7.90 | 1.73 | Power & signal wiring |
+| Jumper Wires | Separate jumper wire set | 1 | 17.16 | 3.96 | Power & signal wiring |
 | Silicone Wire | 28 AWG silicone wire (3 m) | 1 | 7.62 | 1.67 | Internal wiring |
 | Fasteners | M2 screw assortment kit | 1 | 26.23 | 5.74 | Enclosure mounting |
 | Storage | microSD card 32GB (Class 10, A1) | 1 | 24.16 | 5.28 | OS & data storage |
@@ -46,9 +46,7 @@ I built this project to explore how everyday items like wallets could be redesig
 
 ### 💵 Estimated Total Cost
 
-- **Parts only:** ≈ **$58–60 USD**
-- **With shipping & transport:** **≈ $65–70 USD**
-
+- **Parts only:** ≈ **$64.59 USD**  = 280.12 RON
 ---
 
 ### 📝 Notes
