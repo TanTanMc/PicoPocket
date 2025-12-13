@@ -30,7 +30,7 @@ The diagram (simplified) (I added only the crucial parts) for the pickpocket
 | Fasteners | M2 screw assortment kit | 1 | 26.23 | 5.74 | Enclosure mounting |
 | Storage | microSD card 32GB (Class 10, A1) | 1 | 24.16 | 5.28 | OS and storage |
 
-**Estimated total cost:** **≈ 267.37 RON / 58.77 USD** but could yall give me 60-7$ because i need to pay for transport for some parts.. please
+**Estimated total cost:** **≈ 267.37 RON / 58.77 USD** but could yall give me 60-70$ because i need to pay for transport for some parts.. please
 
 ### Notes
 - All components were sourced from **AliExpress** to reduce cost.
