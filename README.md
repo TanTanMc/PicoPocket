@@ -14,26 +14,29 @@ The diagram (simplified) (I added only the crucial parts) for the pickpocket
 
 
 
+
 ## Bill of Materials (BOM)
 
-| Item | Description | Price (RON) | Link | Notes |
-|------|------------|-------------|------|------|
-| Breadboard | MB-102 breadboard with power module and jumper wires | 19.61 | https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007539869714 | Prototyping and testing |
-| Single Board Computer | Raspberry Pi Zero 2W with pre-soldered GPIO header | 123.71 | https://www.aliexpress.com/item/1005008530776931.html | Main computer running Linux |
-| Battery | 3.7V 2000mAh LiPo battery (804050) | 25.80 | https://www.aliexpress.com/item/1005010044750267.html | Primary power source |
-| Display | 2.4 inch SPI TFT LCD with touch (ILI9341) | 25.64 | https://www.aliexpress.com/item/1005006470481683.html | User interface display |
-| Battery Charger | TP4056 USB-C Li-ion charger with protection | 1.40 x2 | https://www.aliexpress.com/item/1005010470023583.html | Battery charging modules |
-| Boost Converter | MT3608 DC-DC step-up converter module | 3.63 x2 | https://www.aliexpress.com/item/1005006361814667.html | Voltage boost to 5V |
-| USB-C PD Module | USB-C PD/QC trigger module | 10.31 | https://www.aliexpress.com/item/1005009301680543.html | External USB-C power input |
-| Speaker | 8 ohm 1W mini speaker with wires | 2.80 | https://www.aliexpress.com/item/1005007315336158.html | Audio output |
-| Jumper Wires | Flexible jumper wire set for breadboard | 7.90 | https://www.aliexpress.com/item/1005006143664755.html | Signal and power connections |
-| Silicone Wire | 28 AWG silicone insulated wire (3m) | 7.62 | https://www.aliexpress.com/item/1005009017260144.html | Power and speaker wiring |
-| Fasteners | M2 screw assortment kit | 26.23 | https://www.aliexpress.com/item/1005007159750547.html | Enclosure and mechanical assembly |
-| USB Card Reader | USB 3.0 SD and microSD card reader | 26.47 | https://www.aliexpress.com/item/1005007466971732.html | Flashing the microSD card |
-| Storage | MicroSD card 32GB Class 10 (A1) | 24.16 | https://www.aliexpress.com/item/1005007720497682.html | Operating system and storage |
-| Power Switch | SPST rocker power switch (2-pin) | 13.62 | https://www.aliexpress.com/item/1005008683106599.html | Main power on/off switch |
+| Item | Description | Qty | Unit Price (RON) | Unit Price (USD) | Notes |
+|-----|------------|-----|------------------|------------------|------|
+| Breadboard | MB-102 breadboard with jumper wires | 1 | 19.61 | 4.30 | Prototyping only (no PCB used) |
+| Single Board Computer | Raspberry Pi Zero 2W (pre-soldered GPIO) | 1 | 123.71 | 27.10 | Main system computer |
+| Battery | 3.7V 2000mAh Li-Po battery (804050) | 1 | 25.80 | 5.65 | Portable power source |
+| Display | 2.4″ SPI TFT LCD with touch (ILI9341) | 1 | 25.64 | 5.61 | User interface display |
+| Battery Charger | TP4056 USB-C Li-ion charger with protection | 2 | 1.40 | 0.31 | Redundancy for safety |
+| Speaker | 8Ω 1W mini speaker | 1 | 2.80 | 0.61 | Audio output |
+| Jumper Wires | Flexible jumper wire set | 1 | 7.90 | 1.73 | Power and signal wiring |
+| Silicone Wire | 28 AWG silicone insulated wire (3 m) | 1 | 7.62 | 1.67 | Internal wiring |
+| Fasteners | M2 screw assortment kit | 1 | 26.23 | 5.74 | Enclosure mounting |
+| Storage | microSD card 32GB (Class 10, A1) | 1 | 24.16 | 5.28 | OS and storage |
 
-Total estimated cost: 323.93 RON (Around 76$) BUT im not sure that If i need to pay for transport. Could yall give me 80$ in total instead? Please.
+**Estimated total cost:** **≈ 267.37 RON / 58.77 USD**
+
+### Notes
+- All components were sourced from **AliExpress** to reduce cost.
+- The project uses a **breadboard instead of a PCB** for safety and cuz im not that smart.
+- Power is managed directly through the **TP4056 charger module**.
+- This BOM was created **manually** and is not auto-generated.
 
 
 This is the Diagram/Wiring for the project:
