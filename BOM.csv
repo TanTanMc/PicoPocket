@@ -1,13 +1,13 @@
 Item,Description,Quantity,Unit Price (RON),Unit Price (USD),AliExpress Link,Notes
-Breadboard,MB-102 breadboard with jumper wires,1,19.61,4.30,https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007539869714,Used for prototyping only (no PCB used)
-Single Board Computer,Raspberry Pi Zero 2W with pre-soldered GPIO header,1,123.71,27.10,https://www.aliexpress.com/item/1005008530776931.html,Main computer running Linux
-Battery,3.7V 2000mAh LiPo battery (804050),1,25.80,5.65,https://www.aliexpress.com/item/1005010044750267.html,Primary portable power source
-Display,2.4 inch SPI TFT LCD with touch (ILI9341),1,25.64,5.61,https://www.aliexpress.com/item/1005006470481683.html,Main user interface display (SPI)
-Battery Charger,TP4056 USB-C Li-ion charger with protection,2,1.40,0.31,https://www.aliexpress.com/item/1005010470023583.html,Two units purchased for redundancy and safety
-Speaker,8 ohm 1W mini speaker with wires,1,2.80,0.61,https://www.aliexpress.com/item/1005007315336158.html,Audio output (external amplifier may be added later)
-Jumper Wires,Flexible jumper wire set for breadboard,1,7.90,1.73,https://www.aliexpress.com/item/1005006143664755.html,Signal and power connections
-Silicone Wire,28 AWG silicone insulated wire (3m),1,7.62,1.67,https://www.aliexpress.com/item/1005009017260144.html,Internal wiring
-Fasteners,M2 screw assortment kit,1,26.23,5.74,https://www.aliexpress.com/item/1005007159750547.html,Enclosure and mechanical mounting
-Storage,MicroSD card 32GB Class 10 (A1),1,24.16,5.28,https://www.aliexpress.com/item/1005007720497682.html,Operating system and storage
-TOTAL,,,,,,≈ 267.37 RON / 58.77 USD
-NOTE,This BOM was manually created using GitHub Code.,,,,"All parts selected individually; no CAD/EDA auto-generated BOM used."
+Breadboard,MB-102 breadboard with jumper wires,1,19.61,4.30,https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007539869714,"Used for prototyping only (no PCB used)"
+Single Board Computer,"Raspberry Pi Zero 2W with pre-soldered GPIO header",1,123.71,27.10,https://www.aliexpress.com/item/1005008530776931.html,"Main computer running Linux"
+Battery,"3.7V 2000mAh LiPo battery (804050)",1,25.80,5.65,https://www.aliexpress.com/item/1005010044750267.html,"Primary portable power source"
+Display,"2.4 inch SPI TFT LCD with touch (ILI9341)",1,25.64,5.61,https://www.aliexpress.com/item/1005006470481683.html,"Main user interface display (SPI)"
+Battery Charger,"TP4056 USB-C Li-ion charger with protection",2,1.40,0.31,https://www.aliexpress.com/item/1005010470023583.html,"Two units purchased for redundancy and safety"
+Speaker,"8 ohm 1W mini speaker with wires",1,2.80,0.61,https://www.aliexpress.com/item/1005007315336158.html,"Audio output (external amplifier may be added later)"
+Jumper Wires,"Flexible jumper wire set for breadboard",1,7.90,1.73,https://www.aliexpress.com/item/1005006143664755.html,"Signal and power connections"
+Silicone Wire,"28 AWG silicone insulated wire (3m)",1,7.62,1.67,https://www.aliexpress.com/item/1005009017260144.html,"Internal wiring"
+Fasteners,"M2 screw assortment kit",1,26.23,5.74,https://www.aliexpress.com/item/1005007159750547.html,"Enclosure and mechanical mounting"
+Storage,"MicroSD card 32GB Class 10 (A1)",1,24.16,5.28,https://www.aliexpress.com/item/1005007720497682.html,"Operating system and storage"
+TOTAL,,,"267.37","58.77",,"Approximate total cost"
+NOTE,"This BOM was manually created using GitHub Code.",,,,,,"All parts selected individually; no CAD/EDA auto-generated BOM used."
