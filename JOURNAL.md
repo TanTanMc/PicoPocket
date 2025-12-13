@@ -86,6 +86,16 @@ This stage focused on turning the idea into a **physical object**.
 
 
 ---
+## 13.12.2025  
+**Time spent:** ~4 hours  
+
+### Additional update
+- **Remade the BOM to be more budget-friendly**
+  - Reduced the total cost by approximately **$20**
+  - Replaced higher-cost suppliers with components sourced from **AliExpress**
+  - Improved overall project feasibility while staying within strict budget constraints
+
+
 
 ## Summary
 PicoPocket evolved from an idea into a **working prototype**, including:
