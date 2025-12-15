@@ -35,7 +35,7 @@ I built this project to explore how everyday items like wallets could be redesig
 | Battery | 3.7V 2000mAh Li-Po (804050) | 1 | 25.80 | 5.65 | Portable power source |
 | Display | 2.4″ SPI TFT LCD + Touch (ILI9341) | 1 | 25.64 | 5.61 | Main user interface |
 | Battery Charger | TP4056 USB-C Li-ion charger (with protection) | 2 | 1.40 ×2 | 0.31 ×2 | Redundancy & safety |
-| Speaker | 8Ω 1W mini speaker | 1 | 2.80 | 0.61 | Audio output |
+| Speaker | 8Ω 1W mini speaker | 1 | 2.80+ 5 shipping | 1.61 | Audio output |
 | Jumper Wires | Separate jumper wire set | 1 | 17.16 | 3.96 | Power & signal wiring |
 | Silicone Wire | 28 AWG silicone wire (3 m) | 1 | 7.62 | 1.67 | Internal wiring |
 | Fasteners | M2 screw assortment kit | 1 | 26.23 | 5.74 | Enclosure mounting |
@@ -46,7 +46,7 @@ I built this project to explore how everyday items like wallets could be redesig
 
 ### 💵 Estimated Total Cost
 
-- **Parts only:** ≈ **$64.59 USD**  = 280.12 RON
+- **Parts only:** ≈ **$65.59 USD**  = 285.12 RON
 ---
 
 ### 📝 Notes
