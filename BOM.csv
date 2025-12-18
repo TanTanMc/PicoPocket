@@ -1,14 +1,13 @@
-Item,Description,Quantity,Unit Price (RON),Unit Price (USD),AliExpress Link,Notes
-Breadboard,Standard mini breadboard (no power module),1,7.50,1.65,,"Prototyping only"
-Single Board Computer,"Raspberry Pi Zero 2W with pre-soldered GPIO header",1,123.71,27.20,https://www.aliexpress.com/item/1005008530776931.html,"Main computer running Linux"
-Battery,"3.7V 2000mAh LiPo battery (804050)",1,25.80,5.67,https://www.aliexpress.com/item/1005010044750267.html,"Primary portable power source"
-Display,"2.4 inch SPI TFT LCD with touch (ILI9341)",1,25.64,5.63,https://www.aliexpress.com/item/1005006470481683.html,"Main user interface display"
-Battery Charger,"TP4056 USB-C Li-ion charger with protection",2,1.40,0.31,https://www.aliexpress.com/item/1005010470023583.html,"Battery charging and protection"
-Speaker,"8 ohm 1W mini speaker",1,2.80,0.62,https://www.aliexpress.com/item/1005007315336158.html,"Audio output"
-Jumper Wires,"Flexible jumper wire set",1,7.90,1.74,https://www.aliexpress.com/item/1005006143664755.html,"Signal and power wiring"
-Silicone Wire,"28 AWG silicone insulated wire (3m)",1,7.62,1.68,https://www.aliexpress.com/item/1005009017260144.html,"Internal wiring"
-Fasteners,"M2 screw assortment kit",1,26.23,5.77,https://www.aliexpress.com/item/1005007159750547.html,"Mechanical mounting"
-Storage,"MicroSD card 32GB Class 10 (A1)",1,24.16,5.31,https://www.aliexpress.com/item/1005007720497682.html,"Operating system and storage"
-NFC Reader,"RC522 RFID / NFC SPI module",1,17.70,3.89,https://www.aliexpress.com/item/1005001804715041.html,"NFC card and tag reader"
-
-TOTAL,,,286.46 + 5 Shipping,64.52 + 1 Shipping,,"Approximate total cost"
+Item,Component,Description,Quantity,Unit Price (RON),Unit Price (USD),Line Total (RON),Line Total (USD),Link
+1,NFC / RFID Module,MFRC-522 RC522 RFID IC Card Reader,1,9.37,2.04,9.37,2.04,https://www.aliexpress.com/item/1005009605708478.html
+2,Micro SD Card,SanDisk Ultra 32GB microSD A1,1,28.03,6.09,28.03,6.09,https://www.aliexpress.com/item/1005007501610476.html
+3,Screw Kit,M2 M3 M4 M5 M6 Allen Hex Screw Set,1,22.27,4.84,22.27,4.84,https://www.aliexpress.com/item/1005007785536181.html
+4,Silicone Wire,30 AWG Silicone Wire 3m,1,8.23,1.79,8.23,1.79,https://www.aliexpress.com/item/1005009017260144.html
+5,Jumper Wires Male-Male,Dupont Male to Male 15cm,1,7.36,1.60,7.36,1.60,https://www.aliexpress.com/item/1005005501503609.html
+6,Jumper Wires Male-Female,Dupont Male to Female 15cm,1,7.10,1.54,7.10,1.54,https://www.aliexpress.com/item/1005005501503609.html
+7,TFT Display,2.4 inch SPI TFT LCD ILI9341 with Touch,1,30.78,6.69,30.78,6.69,https://www.aliexpress.com/item/1005008554855905.html
+8,Single Board Computer,Raspberry Pi Zero 2 W with Soldered Header,1,137.68,29.93,137.68,29.93,https://www.aliexpress.com/item/1005008224603338.html
+9,Speaker,8 Ohm 1W Mini Speaker (3 pcs pack),1,2.45,0.53,2.45,0.53,https://www.aliexpress.com/item/1005008895014896.html
+10,Battery Charger Module,TP4056 USB-C Lithium Charger Module,2,0.62,0.13,1.24,0.27,https://www.aliexpress.com/item/1005008927476478.html
+11,Battery,3.7V 2000mAh Li-Po Battery PH2.0 Connector,1,29.02,6.31,29.02,6.31,https://www.aliexpress.com/item/1005008129110763.html
+,,TOTAL,,,,283.53,61.63,
