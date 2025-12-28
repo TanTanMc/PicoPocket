@@ -106,3 +106,37 @@ PicoPocket evolved from an idea into a **working prototype**, including:
 - Presentation materials
 
 This project represents **technical learning** , especially within budget constraints.
+
+---
+
+## 28.12.2025  
+**Time spent:** ~5 hours  
+
+### Work done
+- Finalized the **electrical wiring plan**
+- Cleaned up the **wiring diagram** to match the actual components being used
+- Removed unnecessary parts from the design:
+  - Boost converter
+  - Breadboard with built-in power module
+  - Bundled jumper wires
+- Added the **RC522 NFC module** to the system design
+- Updated the **BOM** with accurate prices and quantities
+- Reformatted the **README** to clearly present the budget and component list
+- Ensured that all components logically fit inside the enclosure
+
+A large portion of the session was spent verifying that the wiring makes sense electrically and physically.  
+I carefully checked how power flows from the Li-Po battery through the TP4056 charging module and into the Raspberry Pi Zero 2W, making sure that no unnecessary voltage conversion stages are used.  
+This simplified the design and reduced cost, power loss, and complexity.
+
+I also documented how the SPI bus is shared between the display and the NFC reader, confirming that the chip select lines are handled correctly and that there are no conflicts on the data lines.  
+This step was important to avoid communication issues once the firmware development begins.
+
+### Media
+- Updated wiring diagram  
+ <img width="1324" height="668" alt="image" src="https://github.com/user-attachments/assets/7ee51dfd-c905-4625-a61f-8efa57ec0b96" />
+
+- Revised component layout inside enclosure  
+  <img width="862" height="509" alt="image" src="https://github.com/user-attachments/assets/0f44284d-841c-42a6-8634-58802890523d" />
+
+---
+
