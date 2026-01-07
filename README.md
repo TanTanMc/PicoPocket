@@ -24,6 +24,74 @@ I built this project to explore how everyday items like wallets could be redesig
 - Raspberry Pi powered through **5V output**
 - ❌ No boost converter (not needed)
 - ❌ No powered breadboard
+
+## How the PicoPocket App Works
+
+PicoPocket runs a custom Linux application on the **Raspberry Pi Zero 2 W**.  
+The application turns the device into a **stand-alone digital wallet interface**, eliminating the need for a smartphone for everyday wallet operations.
+
+---
+
+### Main Functions
+
+### 1. Virtual Wallet
+
+The app allows the user to store and manage multiple digital identities, including:
+
+- Bank cards (via NFC emulation and UID handling)
+- Access cards and ID tags
+- Cryptocurrency wallet keys
+- Custom user credentials
+
+All information is stored **locally on the device**. NOT IN THE CLOUD, so hackers can't steal the wallet's somehow. 
+The system is designed so that encryption and advanced security features can be added in later versions.
+
+---
+
+### 2. Card & Payment Interaction
+
+Using the built-in **NFC module**, PicoPocket can:
+
+- Read physical cards
+- Store card identifiers digitally
+- Present the selected identity when making a payment or accessing a system
+
+This allows the user to carry **many cards in one physical device**.
+
+---
+
+### 3. Crypto & Transfers
+
+The application also supports cryptocurrency operations, including:
+
+- Storing wallet keys
+- Initiating payments directly from the device
+- Transferring funds without converting through traditional banking systems
+
+This enables:
+
+- Fast payments  
+- Direct crypto usage  
+- Simple peer-to-peer transfers  
+
+Transfers between users can be performed in two ways:
+
+1. **POS-style transfer** when two PicoPocket devices are near each other, using the NFC (Still working on this)  
+2. **PICO Tag transfer**, is like REVtag from revolut, but for this. Or email/phone number
+---
+
+### 4. User Interface
+
+The touchscreen provides access to:
+
+- Wallet overview
+- Card selection
+- Payment and transfer menus
+- Device status (battery, storage, connections)
+
+All interaction happens **directly on PicoPocket** without requiring a phone.
+
+
 ---
 ## Bill of Materials
 
