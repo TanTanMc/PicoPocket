@@ -27,7 +27,7 @@ I built this project to explore how everyday items like wallets could be redesig
 
 ## How the PicoPocket App Works
 
-PicoPocket runs a custom Linux application on the **Raspberry Pi Zero 2 W**.  
+PicoPocket runs raspbery pi OS on the **Raspberry Pi Zero 2 W**.  
 The application turns the device into a **stand-alone digital wallet interface**, eliminating the need for a smartphone for everyday wallet operations.
 
 ---
@@ -127,6 +127,7 @@ This document lists all required components with pricing in **RON** and **USD**.
 ## Wiring Diagram
 
 <img width="1324" height="668" alt="image" src="https://github.com/user-attachments/assets/53790162-aa62-4ab9-ad65-e36383a786fd" />
+<img width="1536" height="1024" alt="c9958e8f-3e48-4044-a637-84655ff5b268" src="https://github.com/user-attachments/assets/beb77e36-3507-4fb0-958d-6c4c9a15d735" />
 
 
 ---
