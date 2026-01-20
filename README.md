@@ -127,6 +127,7 @@ This document lists all required components with pricing in **RON** and **USD**.
 ## Wiring Diagram
 
 <img width="1324" height="668" alt="image" src="https://github.com/user-attachments/assets/53790162-aa62-4ab9-ad65-e36383a786fd" />
+<img width="1230" height="865" alt="image" src="https://github.com/user-attachments/assets/2d1c876b-4b5f-42ec-bf86-8dda2cff14d5" />
 
 
 ---
